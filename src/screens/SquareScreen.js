@@ -4,9 +4,10 @@ import{View, Text, Button, StyleSheet} from 'react-native'
 const SquareScreen = () => {
     return (
         <View>
-            <Button title="more red"/>
-            <Button title="more green"/>
-            <Button title="more blue"/>
+            <Text>sqare</Text>
+            <Text>sqare</Text>
+            <Text>sqare</Text>
+            <Text>sqare</Text>
         </View>
     );
 };
